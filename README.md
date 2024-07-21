@@ -16,3 +16,8 @@ echo "my-url" >> input.txt
 # Run file
 python phubdl.py
 ```
+
+## Advanced usage
+
+- You can change the number of concurent downloads in the python file.
+- For more advanced features, see the [PHUB](https://github.com/EchterAlsFake/PHUB) library.
